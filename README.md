@@ -2,6 +2,8 @@
 
 A free, responsive real estate agency landing page template built with plain HTML5, CSS3 and JavaScript — no frameworks, no build step. A premium, trustworthy design ready to adapt for any realty or property-listing site.
 
+![Preview](preview.png)
+
 **[Live demo](https://lenivalestevao.github.io/real-estate-landing-page/)**
 
 ## Features
