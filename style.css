@@ -65,7 +65,8 @@ small { font-size: 13px; }
 /* ---------- Hero ---------- */
 .hero { position: relative; background: linear-gradient(135deg, var(--navy) 0%, var(--navy-light) 100%); color: #fff; padding: 96px 0 130px; overflow: hidden; }
 .hero::before { content: ""; position: absolute; width: 520px; height: 520px; border-radius: 50%; right: -120px; top: -160px; background: radial-gradient(circle, rgba(201, 162, 39, .28), transparent 70%); }
-.hero-inner { position: relative; max-width: 760px; }
+.hero-inner { position: relative; }
+.hero-inner p { max-width: 620px; }
 .pill { display: inline-block; padding: 6px 16px; border-radius: 999px; background: rgba(201, 162, 39, .16); color: var(--gold-light); font-size: 13px; font-weight: 700; letter-spacing: .04em; margin-bottom: 20px; }
 .hero h1 { color: #fff; font-size: clamp(40px, 6vw, 68px); font-weight: 800; letter-spacing: -.04em; }
 .hero p { font-size: 18px; color: #cbd5e1; max-width: 560px; margin: 20px 0 0; }
